@@ -1,0 +1,3 @@
+# This render.yaml is outdated and should not be used.
+# Use the render.yaml in the project root instead.
+# The root render.yaml has the correct configuration with PYTHONPATH set.
